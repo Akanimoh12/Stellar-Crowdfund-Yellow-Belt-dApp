@@ -2,6 +2,8 @@
 
 > **Level 2 Challenge** - Build a Stellar dApp that deploys & interacts with a Soroban smart contract, supports multiple wallets, and handles real-time events.
 
+![main_campaign_page](screenshot_of_application/main_campaign_page.png)
+
 ## Overview
 
 A decentralized crowdfunding platform built on Stellar's Soroban smart contracts. Users can create campaigns, donate tokens, and claim funds - all on the Stellar testnet.
@@ -156,15 +158,16 @@ The app handles 3+ distinct error types:
 - [x] Multi-wallet support (Freighter + Albedo + xBull)
 - [x] Real-time event handling
 - [x] 3+ error types handled
-- [ ] Screenshots in `screenshot_of_application/`
-- [ ] Live demo URL: `__________________`
+- [x] Screenshots in `screenshot_of_application/`
+- [x] Live demo URL: `https://crowdfund-stellar-dapp.vercel.app/`
 
 ## Screenshots
 
-![main_page_before_connect](screenshot_of_application/main_page_before_connect.png)
-![after_connect_wallet](screenshot_of_application/after_connect_wallet.png)
-![campaign_dashboard](screenshot_of_application/campaign_dashboard.png)
-![donation_flow](screenshot_of_application/donation_flow.png)
+![3_wallets_modal](screenshot_of_application/3_wallets_modal.png) 
+![main_campaign_page](screenshot_of_application/main_campaign_page.png)
+![donation_page](screenshot_of_application/donation_page.png) 
+![claim_funds_page](screenshot_of_application/claim_funds_page.png) 
+![live_events_page](screenshot_of_application/live_events_page.png) 
 
 ## Network
 
